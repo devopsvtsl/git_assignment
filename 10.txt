@@ -1,1 +1,16 @@
-fifth file...
+fifth file.....
+lsdev -Cc adapters
+lspv
+lsvg
+lsvg -l vgname
+lsvg -o
+lsvg -p vgname 
+lspv -l pvname
+lsvg vgname
+lslv lavname
+lslv 
+lspv -m pvname
+chfs
+chpv -ay pvname
+chvg -T vgname
+chpv -an pvname
